@@ -2,7 +2,7 @@
 
 This is a user-friendly **Event Management System** application built with **Python** and **Streamlit**. The application allows users to add and manage venues, making it ideal for event organizers looking to streamline their venue management process.
 
-![Event Management System Screenshot](image.png)
+![Event Management System Screenshot](https://github.com/himanshu0ic7/Code-Matrix/blob/main/Images/Main.png)
 
 ---
 
